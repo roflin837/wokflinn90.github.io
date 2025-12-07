@@ -185,6 +185,7 @@ nav ul li a:hover
 .title-p
 {
     margin-left: 60px;
+    max-resolution: 5%;
 }
 
 .populer
@@ -204,7 +205,7 @@ nav ul li a:hover
 .harga
 {
     color: var(--green);
-    margin-top: 30%;
+    margin-top: 35%;
 }
 
 .link a
