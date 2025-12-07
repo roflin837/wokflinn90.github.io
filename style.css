@@ -227,9 +227,13 @@ nav ul li a:hover
 .pesan:hover
 {
     background-color: var(--white);
+    margin-left: 6px;
+    margin-right: 5%;
 }
 
 .pesan img
 {
     width: 30px;
+    margin-left: 6px;
+    margin-right: 5%;
 }
