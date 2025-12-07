@@ -184,22 +184,21 @@ nav ul li a:hover
 
 .title-p
 {
-    margin-top: 5%;
-    margin-left: 60px;  
+    margin-left: 60px;
 }
 
 .populer
 {
-   display: grid;
-   grid-template-columns: repeat(6,1fr);
-   width: 90%;
-   margin-left: 5%;
-   margin-right: 5%;
+  display: grid;
+  grid-template-columns: repeat(6,1fr);
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
-.populer
+.populer img
 {
- border-radius: 10px;
+    border-radius: 10px;
 }
 
 .harga
@@ -227,13 +226,9 @@ nav ul li a:hover
 .pesan:hover
 {
     background-color: var(--white);
-    margin-left: 6px;
-    margin-right: 5%;
 }
 
-.pesan img
+.pesan image
 {
     width: 30px;
-    margin-left: 6px;
-    margin-right: 5%;
 }
