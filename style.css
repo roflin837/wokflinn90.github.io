@@ -234,3 +234,69 @@ nav ul li a:hover
 {
     width: 30px;
 }
+
+.card h1
+{
+    text-align: center;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+
+.tentang
+{
+    display: grid;
+    justify-content: center;
+    margin-top: 10%;
+    font-size: 15pt;
+}
+
+.card
+{
+    background-color: var(--blue);
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 20px 20px black;
+}
+
+footer
+{
+    display: grid;
+    justify-content: center;
+    background-color: var(--blue);
+    margin-top: 10%;
+    padding: 2%;
+}
+
+.sosmed img
+{
+    width: 50px;
+}
+
+#copyright
+{
+    text-align: center;
+    padding: 10px;
+}
+
+footer
+{
+    display: grid;
+    justify-content: center;
+    background-color: var(--blue);
+    margin-top: 10%;
+    padding: 2%;
+}
+
+.sosmed img
+{
+    width: 50px;
+}
+
+#copyright
+{
+    text-align: center;
+    padding: 10px;
+}
