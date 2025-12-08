@@ -300,3 +300,51 @@ footer
     text-align: center;
     padding: 10px;
 }
+
+@media screen and (max-width: 600px) {
+
+    nav ul li a
+    {
+        font-size: 11pt;
+    }
+    .slider
+    {
+        display: none;
+    }
+
+    .title-p
+    {
+        padding-top: 6rem;
+        margin-left: 20px;
+    }
+
+    .populer
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        font-size: 10pt;
+    }
+
+    .link img
+    {
+        width: 80%;
+    } 
+
+    .tentang
+    {
+        width: 90%;
+        padding-left: 2rem;
+        font-size: 13pt;
+    }
+
+    .sosmed
+    {
+        font-size: 10pt;
+        padding: 6rem;
+    }
+
+    .sosmed img
+    {
+        width: 10pt;
+    }
+}
